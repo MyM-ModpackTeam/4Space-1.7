@@ -255,7 +255,7 @@ public class WorldProviderVenus extends WorldProviderSpace implements IGalacticr
 
 	@Override
 	public float getThermalLevelModifier() {
-		return 9;
+		return 6.0F;
 	}
 
 	@Override

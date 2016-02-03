@@ -264,7 +264,7 @@ public class WorldProviderCallisto extends WorldProviderSpace implements IGalact
 
 	@Override
 	public float getThermalLevelModifier() {
-		return -8.0F;
+		return -6.0F;
 	}
 
 	@Override

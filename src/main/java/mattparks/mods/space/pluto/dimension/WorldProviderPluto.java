@@ -266,7 +266,7 @@ public class WorldProviderPluto extends WorldProviderSpace implements IGalacticr
 
 	@Override
 	public float getThermalLevelModifier() {
-		return -15.0F;
+		return -6.0F;
 	}
 
 	@Override

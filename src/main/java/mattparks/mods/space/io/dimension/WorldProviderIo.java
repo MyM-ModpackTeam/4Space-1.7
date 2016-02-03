@@ -255,7 +255,7 @@ public class WorldProviderIo extends WorldProviderSpace implements IGalacticraft
 
 	@Override
 	public float getThermalLevelModifier() {
-		return 7.0F;
+		return 6.0F;
 	}
 
 	@Override
